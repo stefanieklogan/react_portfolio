@@ -16,10 +16,11 @@ function About() {
       </div>
     
                                 <p class="aboutme_p mx-1">Extra! Extra! Read all about it! Stefanie has gone coding!</p>
-                                <p class="aboutme_p mx-1">Welcome to my webpage! Take a peek at my <NavLink className="mouse" to="/portfolio"> portfolio</NavLink> page or <NavLink className="mouse" src="https://github.com/stefanieklogan">Github</NavLink> to see what recent designs I’ve been up to.
-                                    Ready to collaborate? Head to my <a href="./contact.html" class="mouse">Contact</a> page to reach out.</p>
-                                    <p>My journey extends beyond coding, see where I've worked on my <a href="./resume.pdf" class="mouse">Resume </a>and <a href="https://www.linkedin.com/in/stefanie-logan-5809a2104/" class="mouse">LinkedIn</a> account.</p>
+                                <p class="aboutme_p mx-1">Welcome to my webpage! Take a peek at my <NavLink className="mouse" to="/portfolio"> portfolio</NavLink> page or <a href="https://github.com/stefanieklogan" class="mouse">Github</a> to see what recent designs I’ve been up to.
+                                    Ready to collaborate? Send me a message at stefanieklogan@yahoo.com.</p>
+                                    <p>My journey extends beyond coding, see where I've worked on my <a href="https://stefanieklogan.github.io/Homework2ResponsivePortfolio/resume.pdf" class="mouse">resume</a> or <a href="https://www.linkedin.com/in/stefanie-logan-5809a2104/" class="mouse">LinkedIn</a> account.</p>
                                     <p class="aboutme_p mx-1">I set out on a new journey to learn what it takes to become a web developer and I look forward to designing for you!
+        
   </p>
                                     <p class="aboutme_p mx-1">- Stefanie</p>
   </div>
