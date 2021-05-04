@@ -8,7 +8,7 @@ function About() {
                 <h2 class="h2 px-1 pt-3 pb-2 text-left">About Me</h2>
                 <div class="row mb-0">
                     <div class="col-12 text-center">
-                        <img class="allimages mx-2 my-1" alt="Stefanie whisper" src="./images/Stefanie_left.jpg"/>
+                        <img class="allimages mx-2 my-1" alt="Stefanie whisper" src="./images/stefanie_left.jpg"/>
                             <img class="allimages mx-2 my-1" alt="Stefanie surprise" src="./images/stefanie_center.jpg"/>
                                 <img class="allimages mx-2 my-1" alt="Stefanie whisper" src="./images/stefanie_right.jpg"/>
           </div>
