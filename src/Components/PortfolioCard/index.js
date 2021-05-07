@@ -14,7 +14,7 @@ function PortfolioCard(props) {
                         <Card.Text>
                             {props.project.description}
                         </Card.Text>
-                        <Button variant="primary" href={props.project.href}>View site</Button>
+                        <Button className="btn" href={props.project.href}>View site</Button>
                     </Card.Body>
                 </Card>
             </div>

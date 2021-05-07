@@ -22,7 +22,13 @@ const portfolioData = [
         title: "React Employee Directory"
     },
     {
-        thumbnail: "",
+        thumbnail: "./images/fitness.png",
+        href: "https://blooming-chamber-74383.herokuapp.com/",
+        description: "Keep your body working until you go to sleep",
+        title: "Fitness Tracker"
+    },
+    {
+        thumbnail: "./images/money.JPG",
         href: "https://pure-peak-80351.herokuapp.com/",
         description: "Finances at your fingertips - online & offline",
         title: "Budget Tracker"
@@ -32,7 +38,7 @@ const portfolioData = [
 function Portfolio() {
     return (
         <main>
-            <div className="container-fluidHeading"><h2>Portfolio</h2></div>
+
             <div className="container-fluid">
                 <div className="row">
                     {portfolioData.map((item) => (
