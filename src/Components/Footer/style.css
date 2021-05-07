@@ -1,0 +1,19 @@
+/*STYLING FOR ALL PAGES */
+.h1 {font-family: 'Oswald', sans-serif;
+    font-size:28px;
+}
+
+.nav, .aboutme_p {font-family: 'Lato', sans-serif;
+}
+
+.h2, .form-label {color:#7a2d2d;
+    font-family: 'Lato', sans-serif;
+}
+
+.container, .row {background-color: rgb(224, 166, 166);
+}
+
+.footer {background-color:#333333;
+    color:white;
+    font-family: 'Lato', sans-serif;
+}

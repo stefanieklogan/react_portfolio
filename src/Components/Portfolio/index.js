@@ -1,14 +1,53 @@
 import React from "react";
 import './style.css';
+import PortfolioCard from "../PortfolioCard";
+
+const portfolioData = [
+    {
+        thumbnail: "./images/park.jpg",
+        href: "https://guie01.github.io/Project-W7-Group-5/",
+        description: "Start planning your next outdoor adventure with us!",
+        title: "National Parks Adventure"
+    },
+    {
+        thumbnail: "./images/crypto.JPG",
+        href: "https://radiant-ocean-90430.herokuapp.com/",
+        description: "Calling all crypto currency fans!",
+        title: "Crypto Chat"
+    },
+    {
+        thumbnail: "",
+        href: "https://stefanieklogan.github.io/react_employee_directory/",
+        description: "Employee management and contact information",
+        title: "React Employee Directory"
+    },
+    {
+        thumbnail: "",
+        href: "https://pure-peak-80351.herokuapp.com/",
+        description: "Finances at your fingertips - online & offline",
+        title: "Budget Tracker"
+    }
+]
 
 function Portfolio() {
     return (
-<div>
-<p>In progress</p>
-    
-</div>
+        <main>
+            <div className="container-fluidHeading"><h2>Portfolio</h2></div>
+            <div className="container-fluid">
+                <div className="row">
+                    {portfolioData.map((item) => (
+                        <div className="card-body">
+                            <div className="col-6">
 
-    );
+                                <PortfolioCard project={item} />
+                            </div>
+                        </div>
+                    ))}
+
+                </div>
+            </div>
+        </main>
+    )
 }
 
-export default Portfolio;
+export default Portfolio
