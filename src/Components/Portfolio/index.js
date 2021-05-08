@@ -25,14 +25,14 @@ const portfolioData = [
         title: "Fitness Tracker"
     },
     {
-        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/dayplanner.jpg?raw=true",
+        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/dayplanner.JPG?raw=true",
         alt: "day planner",
         href: "https://stefanieklogan.github.io/Homework5DayPlanner/",
         description: "Keep track of your day",
         title: "Day Planner"
     },
     {
-        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/crypto.jpg?raw=true",
+        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/crypto.JPG?raw=true",
         alt: "crypto coins",
         href: "https://radiant-ocean-90430.herokuapp.com/",
         description: "Calling all crypto currency fans!",
