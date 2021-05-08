@@ -4,14 +4,14 @@ import PortfolioCard from "../PortfolioCard";
 
 const portfolioData = [
     {
-        thumbnail: "./images/park.jpg",
+        thumbnail: "./Photo/park.jpg",
         alt: "national park",
         href: "https://guie01.github.io/Project-W7-Group-5/",
         description: "Start planning your next outdoor adventure with us!",
         title: "National Parks Adventure"
     },
     {
-        thumbnail: "./images/directory.jpg",
+        thumbnail: "../../Photo/directory.jpg",
         alt: "employees",
         href: "https://stefanieklogan.github.io/react_employee_directory/",
         description: "Employee management and contact information",
