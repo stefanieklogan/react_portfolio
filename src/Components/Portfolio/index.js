@@ -18,28 +18,28 @@ const portfolioData = [
         title: "React Employee Directory"
     },
      {
-        thumbnail: "./images/fitness.png",
+        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/fitness.png?raw=true",
         alt: "heart rate",
         href: "https://blooming-chamber-74383.herokuapp.com/",
         description: "Keep your body working until you go to sleep",
         title: "Fitness Tracker"
     },
     {
-        thumbnail: "./images/dayplanner.jpg",
+        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/dayplanner.jpg?raw=true",
         alt: "day planner",
         href: "https://stefanieklogan.github.io/Homework5DayPlanner/",
         description: "Keep track of your day",
         title: "Day Planner"
     },
     {
-        thumbnail: "./images/crypto.JPG",
+        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/crypto.jpg?raw=true",
         alt: "crypto coins",
         href: "https://radiant-ocean-90430.herokuapp.com/",
         description: "Calling all crypto currency fans!",
         title: "Crypto Chat"
     },
     {
-        thumbnail: "./images/money.JPG",
+        thumbnail: "https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/money.jpg?raw=true",
         alt: "cash money",
         href: "https://pure-peak-80351.herokuapp.com/",
         description: "Finances at your fingertips",
