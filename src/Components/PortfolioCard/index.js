@@ -8,7 +8,7 @@ function PortfolioCard(props) {
         <div>
             <div class="container">
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={props.project.thumbnail}/>
+                    <Card.Img variant="top" src={props.project.thumbnail} alt={props.project.alt}/>
                     <Card.Body>
                         <Card.Title>{props.project.title}</Card.Title>
                         <Card.Text>
