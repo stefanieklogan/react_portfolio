@@ -32,6 +32,13 @@ const portfolioData = [
         title: "Fitness Tracker"
     },
     {
+        thumbnail: "./images/dayplanner.jpg",
+        alt: "day planner",
+        href: "https://stefanieklogan.github.io/Homework5DayPlanner/",
+        description: "Keep track of your day",
+        title: "Day Planner"
+    },
+    {
         thumbnail: "./images/money.JPG",
         alt: "cash money",
         href: "https://pure-peak-80351.herokuapp.com/",
