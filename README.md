@@ -12,7 +12,7 @@
 
 * Click here: https://stefanieklogan.github.io/about
 
-![Homepage image]()
+![Homepage image](https://github.com/stefanieklogan/react_portfolio/blob/master/public/images/home.jpg)
 
 <a name="overview"></a>
 ## Project overview
@@ -27,7 +27,7 @@
 
 * React is unforgiving if components are not imported correctly or file sources are incorrect. I do appreciate the debugging react provides in comparison to other languages - there's typically error handling available on the browser if page won't load.
 
-* I provided a walk-thru video as proof of project. Despite multiple tries, tutoring and TA assistance, my react portfolio would not render all photos. I will continue to debug before demo day.
+* Despite multiple tries, tutoring and TA assistance, my react portfolio does not automatically load. The pages appear after clicking on links. Any advice appreciated! I will continue to debug before demo day.
 
 <a name="streetcred"></a>
 ## The other stuff: License & Badges
