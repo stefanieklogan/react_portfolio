@@ -11,7 +11,7 @@ function About() {
                     <div class="col-12 text-center">
                         <img class="allimages mx-2 my-1" alt="Stefanie whisper" src="https://github.com/stefanieklogan/react_portfolio/blob/master/public/images/Stefanie_left.jpg?raw=true"/>
                             <img class="allimages mx-2 my-1" alt="Stefanie surprise" src="https://github.com/stefanieklogan/react_portfolio/blob/master/public/images/stefanie_center.jpg?raw=true"/>
-                                <img class="allimages mx-2 my-1" alt="Stefanie whisper" src="https://github.com/stefanieklogan/react_portfolio/blob/master/src/images/stefanie_right.jpg?raw=true"/>
+                                <img class="allimages mx-2 my-1" alt="Stefanie whisper" src="https://github.com/stefanieklogan/react_portfolio/blob/master/public/images/stefanie_right.jpg?raw=true"/>
           </div>
       </div>
     
