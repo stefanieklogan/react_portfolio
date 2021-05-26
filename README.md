@@ -10,9 +10,9 @@
 <a name="application"></a>
 ## Link to application
 
-* Click here: xxx
+* Click here: https://stefanieklogan.github.io/about
 
-![Homepage image](xxx)
+![Homepage image]()
 
 <a name="overview"></a>
 ## Project overview
