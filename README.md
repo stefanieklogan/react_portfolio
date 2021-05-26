@@ -10,7 +10,7 @@
 <a name="application"></a>
 ## Link to application
 
-* Click here: https://stefanieklogan.github.io/about
+* Click here: https://stefanieklogan.github.io/react_portfolio/
 
 ![Homepage image](https://github.com/stefanieklogan/react_portfolio/blob/master/public/images/home.jpg)
 
